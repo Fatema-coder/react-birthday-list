@@ -8,7 +8,7 @@ A simple and aesthetic birthday reminder app built with **React.js** and styled 
 - 📅 Checks if today is their birthday and shows a "Wish Them" button
 - ➕ Add new people with a form
 - 💾 Stores everything using LocalStorage (data stays after refresh)
-- 🌐 Deployed on [Vercel](#) and [Netlify](#)
+- 🌐 Deployed on [Vercel](#) 
 
 ## 📸 Preview
 
@@ -19,12 +19,11 @@ A simple and aesthetic birthday reminder app built with **React.js** and styled 
 - React.js
 - Tailwind CSS
 - LocalStorage (via useEffect)
-- Deployed on Vercel + Netlify
+- Deployed on Vercel 
 
 ## ✨ Live Demo
 
 🔗 [Vercel Demo](react-birthday-list-g47pow52z-fatema-surajs-projects.vercel.app)  
-🔗 [Netlify Demo](dazzling-lebkuchen-9018bf.netlify.app)
 
 ## 📂 Folder Structure
 Something
