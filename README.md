@@ -23,7 +23,7 @@ A simple and aesthetic birthday reminder app built with **React.js** and styled 
 
 ## ✨ Live Demo
 
-🔗 [Vercel Demo](react-birthday-list-g47pow52z-fatema-surajs-projects.vercel.app)  
+🔗 [Vercel Demo](react-birthday-list.vercel.app)  
 
 ## 📂 Folder Structure
 Something
